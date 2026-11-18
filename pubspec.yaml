@@ -114,4 +114,4 @@ flutter:
     - assets/icons/
 
 dependency_overrides:
-  analyzer: ^10.2.0
+  analyzer: '10.2.0'
